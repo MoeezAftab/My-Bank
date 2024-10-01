@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^22.7.2",
+    "inquirer": "^11.0.2"
+  }
+}
